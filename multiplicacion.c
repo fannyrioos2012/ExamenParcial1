@@ -5,7 +5,7 @@ int i=1;
 while (i==1)
 {
 int d;
-printf ("¿Cual tabla de multiplicar quieres saber?\n");
+printf ("Â¿Cual tabla de multiplicar quieres saber?\n");
 scanf ("%d", &d);
 switch (d)
 {
@@ -130,9 +130,10 @@ printf ("10 x 9 = 90\n");
 printf ("10 x 10 = 100\n");
 break;
 default:
-printf ("Escribe un número del 1 al 10\n");
+printf ("Escribe un nÃºmero del 1 al 10\n");
 break;
 }
 }
 return 0;
 }
+//multiplicacion//
